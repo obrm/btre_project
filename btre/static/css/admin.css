@@ -1,0 +1,38 @@
+#header {
+  height: 50px;
+  background: #10284e;
+  color: #fff;
+}
+
+#branding h1 {
+  color: #fff;
+}
+
+div.breadcrumbs {
+  background: #30caa0;
+  color: #10284e;
+}
+
+div.breadcrumbs a {
+  color: #10284e; 
+  font-weight: bold;
+}
+
+div.breadcrumbs a:hover {
+  color: #10284e; 
+  opacity: 0.8;
+}
+
+.module h2, .module caption, .inline-group h2 {
+  background: #30caa0;
+}
+
+a.section:link, a.section:visited {
+  color: #10284e; 
+  font-weight: bold;
+}
+
+.button, input[type=submit], input[type=button], .submit-row input, a.button {
+  background: #10284e;
+  color: #fff;
+}
